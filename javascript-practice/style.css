@@ -1,0 +1,15 @@
+#run{
+    background-color:aqua;
+    border: 102px;
+    margin: 28px;
+    padding: 45px;
+}
+#paragraph{
+    color:rgb(248, 99, 0);
+}
+.main{
+    background-color:rgb(204, 224, 24);
+    border: 15px;
+    margin: 34px;
+    padding: 12px;
+}
